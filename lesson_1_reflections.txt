@@ -1,0 +1,3 @@
+By using version control system, designers can easily compare 
+two versions of files and track the development history. In 
+some context, it also might help debug the program.
