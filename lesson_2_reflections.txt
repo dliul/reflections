@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+When we create a new repo, we get the initial commit on the master branch.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+In general, I think the staging area is sort of like a buffer between the working directory and the repo. 
+It keeps the potential changes for repo, but give the engineers second opportunity to check whether the following commit is necessary.
