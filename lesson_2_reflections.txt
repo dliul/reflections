@@ -4,3 +4,11 @@ When we create a new repo, we get the initial commit on the master branch.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 In general, I think the staging area is sort of like a buffer between the working directory and the repo. 
 It keeps the potential changes for repo, but give the engineers second opportunity to check whether the following commit is necessary.
+
+How can you use the staging area to make sure you have one commit per logical change?
+I can use diff command to compare the contents between staging area and work directory to see whether the following commit demonstrates a logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+I think branches are useful when we add a new feature to the program or we write the code in a different way.
+Once we have branches, we can test the new stuff in the branch. If it is successful, we can merge the branch with the master. In this way, we unnecessarily modify the correct program we already have.
+
