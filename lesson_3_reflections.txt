@@ -1,1 +1,2 @@
-test
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Sometimes, a developer might include some modifications to a specific part of the repo. If Git automatically updates the repo on the local machine, it might overwrite the developer's modification. That's why we choose to pull changes when we think it's needed.
