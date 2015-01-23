@@ -12,3 +12,5 @@ What are some situations when branches would be helpful in keeping your history 
 I think branches are useful when we add a new feature to the program or we write the code in a different way.
 Once we have branches, we can test the new stuff in the branch. If it is successful, we can merge the branch with the master. In this way, we unnecessarily modify the correct program we already have.
 
+How do the diagrams help you visualize the branch structure?
+Visualizing the branch structure can help see the relation of each commits and make it easy to check the branch history.
