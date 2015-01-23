@@ -4,3 +4,13 @@ Sometimes, a developer might include some modifications to a specific part of th
 If Git automatically updates the repo on the local machine, 
 it might overwrite the developer's modification. 
 That's why we choose to pull changes when we think it's needed.
+
+Describe the differences between forks, clones, and branches. 
+When would you use one instead of another?
+First, forks can be only used on GitHub. It does not originally belong to git commands. 
+clones does the job to copy a repo from GitHub/remote repo to local machine.
+Branches exsit on Github/remote repo or local repo, 
+and its main purpose is to create a branch for a new stuff which need to be added or modified.
+I think that these three commands have their own specific purpose, 
+hence I do not find a situation where a good replacement can occur.
+ 
